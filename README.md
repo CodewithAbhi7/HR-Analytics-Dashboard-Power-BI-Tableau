@@ -13,8 +13,6 @@ This project is an interactive **HR Analytics Dashboard** built using **Power BI
 
 ---
 
-## Project Planning & Management
-
 ### **Objective**
 Build an interactive dashboard in both PowerBI and  Tableau to analyze employee performance, satisfaction, and retention trends.
 
@@ -95,7 +93,7 @@ The project uses multiple CSV datasets, including:
 <img width="912" height="511" alt="Screenshot_20260207_103907_Chrome" src="https://github.com/user-attachments/assets/0d425091-9f32-44b4-a3ad-c97c990e7ab9" />
 <img width="903" height="509" alt="Screenshot_20260207_103914_Chrome" src="https://github.com/user-attachments/assets/6a6a2acc-18d8-4eef-9a46-7b8e84140dac" />
 
-###Tableau
+### Tableau
 <img width="915" height="568" alt="SmartSelect_20260206_165911_Drive" src="https://github.com/user-attachments/assets/5204118e-0aac-4617-ae79-1c2ea67a83db" />
 <img width="937" height="571" alt="SmartSelect_20260206_165936_Drive" src="https://github.com/user-attachments/assets/fa775ee6-b892-46ca-a5a0-6389154a7b20" />
 
