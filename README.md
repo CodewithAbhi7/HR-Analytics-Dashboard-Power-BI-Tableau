@@ -2,11 +2,6 @@
 
 ## Project Overview
 This project is an interactive **HR Analytics Dashboard** built using **Power BI** and **Tableau**. It provides insights into employee performance, attrition trends, job satisfaction, and salary distribution using CSV-based datasets. The dashboard includes KPIs such as employee tenure, attrition rates, and performance ratings to help HR teams make data-driven decisions.
-
-Project Files  
-All datasets, dashboards, and related resources are available in the shared Google Drive folder:
- [👉 Access Project Files on Google Drive](https://drive.google.com/drive/folders/1aULA5kmbX6lqfPdpashVaoz3gPZ_Pb6O?usp=sharing)
-
 ---
 
 ## Features
@@ -21,28 +16,11 @@ All datasets, dashboards, and related resources are available in the shared Goog
 ## Project Planning & Management
 
 ### **Objective**
-Build an interactive dashboard to analyze employee performance, satisfaction, and retention trends.
+Build an interactive dashboard in both PowerBI and  Tableau to analyze employee performance, satisfaction, and retention trends.
 
 ### **Scope**
 - Analyze employee demographics, performance ratings, and attrition.
 - Include KPIs like **average salary, job satisfaction levels, attrition rates, and tenure trends**.
-
-### **Project Timeline (Milestones)**
-| Milestone | Task | Start Date | End Date |
-|-----------|------|------------|----------|
-| Data Preparation | Collect and clean employee datasets | March 1, 2025 | March 7, 2025 |
-| Dashboard Design | Define KPIs | March 8, 2025 | March 14, 2025 |
-| Data Modeling | Transform and integrate datasets using Power Query | March 15, 2025 | March 21, 2025 |
-| Visualization Development | Build Power BI and Tableau dashboards | March 22, 2025 | March 28, 2025 |
-| Interactivity & Refinement | Implement filters, slicers, and optimizations | March 29, 2025 | April 4, 2025 |
-| Final Review & Documentation | Test, validate insights, and finalize the report | April 5, 2025 | April 10, 2025 |
-
-### **Task Assignments**
-- **Data Cleaning & Transformation**: Mohammad Walid Hosny Hussein
-- **Dashboard Design & KPIs**: Kerolos Hani Nabil Zaki, Yassen Khaled Lotfy Ahmed
-- **Report Storytelling & Interactivity**: Yousef Abdalla Agaiby Faleh , Noreen Mohamed Ashraf Hassen
-- **Tableau Implementation**: Taghrid Yasser Gomaa Eid
-- **Documentation & Final Report**: All Team Members
 
 ### **Risk Assessment & Mitigation**
 - **Risk: Inconsistent employee data** → Solution: Data validation techniques.
@@ -101,62 +79,25 @@ The project uses multiple CSV datasets, including:
 
 ---
 
-## System Design
-### **Problem Statement**
-HR teams struggle to get real-time insights into employee performance and attrition trends.
-
-### **Use Case Diagram**
-Actors include **HR Manager, Data Analyst, and CEO**.
-
-### **Software Architecture**
-Power BI with data imported from CSV files.
-
-### **Database Design & Data Modeling**
-- **ER Diagram**: Tables for Employees, Performance Ratings, Satisfaction Levels, and Attrition.
-- **Logical & Physical Schema**: Primary keys, foreign keys, indexing for performance.
-
-### **Data Flow & System Behavior**
-- **DFD (Data Flow Diagram)**: Shows data extraction from CSV, transformation in Power Query, and visualization in Power BI.
-- **Activity Diagram**: Steps from loading data to generating insights.
-
-### **UI/UX Design & Prototyping**
-- **Wireframes**: Dashboard layout with KPIs on top, filters on the left, and graphs below.
-- **UI/UX Guidelines**: Professional color palette, interactive slicers, and readable fonts.
-
----
-
-## System Deployment & Integration
-### **Technology Stack**
-- **Data Visualization**: Power BI, Tableau
-- **Data Processing**: Power Query, DAX
-- **Data Sources**: CSV files
-
-### **Deployment Diagram**
-- Data sources → Power BI → Cloud-based sharing (Power BI Service)
-
-### **Component Diagram**
-- Shows datasets, data model, visualizations, and reports.
-
----
-
 ## Key Performance Indicators (KPIs)
 - **Employee attrition rate**
 - **Average salary per job role**
 - **Performance rating distribution**
 - **Job satisfaction levels**
-- **Years at company vs. attrition trends**
-
+- **Years at company vs. attrition 
 ---
 
-## Contributors
-- **Mohammad Walid Hosny Hussein**
-- **Yassen Khaled Lotfy Ahmed**
-- **Kerolos Hani Nabil Zaki**
-- **Yousef Abdalla Agaiby Faleh**
-- **Taghrid Yasser Gomaa Eid**
-- **Noreen Mohamed Ashraf Hassen**
+## Screenshots
+### PowerBI
+<img width="901" height="510" alt="Screenshot_20260207_103839_Chrome" src="https://github.com/user-attachments/assets/044b22e5-329b-48a2-b2ea-d984b387c96b" />
+<img width="908" height="497" alt="Screenshot_20260207_103848_Chrome" src="https://github.com/user-attachments/assets/376f7c22-bbff-416a-856a-29224e81a025" />
+<img width="898" height="518" alt="Screenshot_20260207_103856_Chrome" src="https://github.com/user-attachments/assets/da24a9a2-250a-4d6d-811c-6e09ce92034b" />
+<img width="912" height="511" alt="Screenshot_20260207_103907_Chrome" src="https://github.com/user-attachments/assets/0d425091-9f32-44b4-a3ad-c97c990e7ab9" />
+<img width="903" height="509" alt="Screenshot_20260207_103914_Chrome" src="https://github.com/user-attachments/assets/6a6a2acc-18d8-4eef-9a46-7b8e84140dac" />
 
----
+###Tableau
+<img width="915" height="568" alt="SmartSelect_20260206_165911_Drive" src="https://github.com/user-attachments/assets/5204118e-0aac-4617-ae79-1c2ea67a83db" />
+<img width="937" height="571" alt="SmartSelect_20260206_165936_Drive" src="https://github.com/user-attachments/assets/fa775ee6-b892-46ca-a5a0-6389154a7b20" />
 
 ## How to Use
 1. **Clone the Repository**:
