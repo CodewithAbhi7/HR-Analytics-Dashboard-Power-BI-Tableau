@@ -99,9 +99,6 @@ The project uses multiple CSV datasets, including:
 
 ## How to Use
 1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-repo/hr-analytics-dashboard.git
-   ```
 2. **Open the Power BI or Tableau Dashboard**
 3. **Interact with Filters & Visuals**
 4. **Analyze Trends & Generate Reports**
