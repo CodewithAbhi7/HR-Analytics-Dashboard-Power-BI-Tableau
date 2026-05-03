@@ -95,8 +95,9 @@ The project uses multiple CSV datasets, including:
 <img width="903" height="509" alt="Screenshot_20260207_103914_Chrome" src="https://github.com/user-attachments/assets/6a6a2acc-18d8-4eef-9a46-7b8e84140dac" />
 
 ### Tableau
-<img width="915" height="568" alt="SmartSelect_20260206_165911_Drive" src="https://github.com/user-attachments/assets/5204118e-0aac-4617-ae79-1c2ea67a83db" />
-<img width="937" height="571" alt="SmartSelect_20260206_165936_Drive" src="https://github.com/user-attachments/assets/fa775ee6-b892-46ca-a5a0-6389154a7b20" />
+<img width="1378" height="799" alt="Screenshot 2026-05-03 222131" src="https://github.com/user-attachments/assets/de920e12-2d0a-4ed3-ae4d-ed0f32d61efe" />
+<img width="1384" height="796" alt="Screenshot 2026-05-03 222152" src="https://github.com/user-attachments/assets/214ebf3a-e54f-4b95-93db-8eed2274614e" />
+
 
 ## How to Use
 1. **Clone the Repository**:
