@@ -88,11 +88,11 @@ The project uses multiple CSV datasets, including:
 
 ## Screenshots
 ### PowerBI
-<img width="901" height="510" alt="Screenshot_20260207_103839_Chrome" src="https://github.com/user-attachments/assets/044b22e5-329b-48a2-b2ea-d984b387c96b" />
-<img width="908" height="497" alt="Screenshot_20260207_103848_Chrome" src="https://github.com/user-attachments/assets/376f7c22-bbff-416a-856a-29224e81a025" />
-<img width="898" height="518" alt="Screenshot_20260207_103856_Chrome" src="https://github.com/user-attachments/assets/da24a9a2-250a-4d6d-811c-6e09ce92034b" />
-<img width="912" height="511" alt="Screenshot_20260207_103907_Chrome" src="https://github.com/user-attachments/assets/0d425091-9f32-44b4-a3ad-c97c990e7ab9" />
-<img width="903" height="509" alt="Screenshot_20260207_103914_Chrome" src="https://github.com/user-attachments/assets/6a6a2acc-18d8-4eef-9a46-7b8e84140dac" />
+<img width="1376" height="775" alt="Screenshot 2026-05-04 154645" src="https://github.com/user-attachments/assets/dbed7f49-7362-4ed2-9b3b-c4081df3ceee" />
+<img width="1369" height="766" alt="Screenshot 2026-05-04 154858" src="https://github.com/user-attachments/assets/acef93ed-4e1a-4aad-8195-63a3f596845f" />
+<img width="1366" height="761" alt="Screenshot 2026-05-04 154917" src="https://github.com/user-attachments/assets/fadcd678-0cd5-458b-a8fc-8dfd956f1d2d" />
+<img width="1364" height="762" alt="Screenshot 2026-05-04 154930" src="https://github.com/user-attachments/assets/0336f10a-fc5f-4f17-9ee4-163ddc63a787" />
+<img width="1364" height="762" alt="Screenshot 2026-05-04 154944" src="https://github.com/user-attachments/assets/118e53f4-0725-416a-8b0a-b44c5d570cc2" />
 
 ### Tableau
 <img width="1378" height="799" alt="Screenshot 2026-05-03 222131" src="https://github.com/user-attachments/assets/de920e12-2d0a-4ed3-ae4d-ed0f32d61efe" />
